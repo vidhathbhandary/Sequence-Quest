@@ -26,3 +26,7 @@ mtb_shared/
 *.hex
 *.bin
 *.map
+
+INTERVIEW_GUIDE.md
+INTERVIEW_*.md
+
